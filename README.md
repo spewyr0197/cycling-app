@@ -1,7 +1,9 @@
 # cycling-app
 
 
-#Features
+
+# Features 
 Currently the following functions are implemented:
+
 
 
