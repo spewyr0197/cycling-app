@@ -7,6 +7,6 @@ Currently the following functions are implemented:
 
 
 Further developments will include:
- *User register and login
- *Geolocation tracking
+  * User register and login
+  * Geolocation tracking
 
