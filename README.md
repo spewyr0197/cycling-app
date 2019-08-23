@@ -6,4 +6,6 @@ The project was inspired by the absence of free and usefull Cycling apps. It aim
 Currently the following functions are implemented:
 
 
+Further developments will include:
+ 
 
